@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-formswrite.formswrite",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Education", "Productivity", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.formswrite.com/api/overview"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.formswrite.com/api/overview"
+			}
+		]
+	}
+}
